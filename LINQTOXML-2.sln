@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQTOXML-2", "LINQTOXML-2\LINQTOXML-2.csproj", "{DE44C20D-4338-4328-81A7-061D46E16AA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE44C20D-4338-4328-81A7-061D46E16AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE44C20D-4338-4328-81A7-061D46E16AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE44C20D-4338-4328-81A7-061D46E16AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE44C20D-4338-4328-81A7-061D46E16AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7EEB636-05C5-4BB5-8915-866CF86E6D94}
+	EndGlobalSection
+EndGlobal
